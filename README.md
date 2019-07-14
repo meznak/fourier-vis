@@ -2,6 +2,8 @@
 
 This is a visualization of waveforms using Fourier epicycles written in python using pygame.
 
+A [demo](https://youtu.be/d173h4fVxD8) can be found on YouTube.
+
 ## Requirements
 * Python 3
 * [pygame](https://www.pygame.org)
